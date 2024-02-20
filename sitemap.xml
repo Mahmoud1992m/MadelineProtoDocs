@@ -108,6 +108,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeAbout.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeAvailableReactions.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeEmojiStatus.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeEmojiStickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeHistoryTTL.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeLinkedChat.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/channelAdminLogEventActionChangeLocation.html</loc></url>
@@ -598,6 +599,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/mediaAreaSuggestedReaction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/mediaAreaVenue.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/message.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionBoostApply.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionBotAllowed.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionChannelCreate.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionChannelMigrateFrom.html</loc></url>
@@ -1436,7 +1438,9 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.reorderUsernames.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.reportAntiSpamFalsePositive.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.reportSpam.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setBoostsToUnblockRestrictions.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setDiscussionGroup.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setEmojiStickers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setStickers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleAntiSpam.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleForum.html</loc></url>
